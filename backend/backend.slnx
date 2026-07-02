@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/AndrewTech.API/AndrewTech.API.csproj" />
+  <Project Path="src/AndrewTech.Application/AndrewTech.Application.csproj" />
+  <Project Path="src/AndrewTech.Domain/AndrewTech.Domain.csproj" />
+  <Project Path="src/AndrewTech.Infrastructure/AndrewTech.Infrastructure.csproj" />
+</Solution>
