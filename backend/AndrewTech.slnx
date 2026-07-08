@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
   <Project Path="src/AndrewTech.API/AndrewTech.API.csproj" />
   <Project Path="src/AndrewTech.Application/AndrewTech.Application.csproj" />
   <Project Path="src/AndrewTech.Domain/AndrewTech.Domain.csproj" />
